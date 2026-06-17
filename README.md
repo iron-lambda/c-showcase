@@ -1,6 +1,6 @@
 # c-showcase
 
-[![Language](https://img.shields.io/badge/language-C-blue)]
+![Language](https://img.shields.io/badge/language-C-blue)
 
 [English](README.md) | [中文](README.zh-CN.md)
 
