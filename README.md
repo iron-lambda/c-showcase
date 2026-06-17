@@ -1,5 +1,7 @@
 # c-showcase
 
+[![Language](https://img.shields.io/badge/language-C-blue)]
+
 [English](README.md) | [中文](README.zh-CN.md)
 
 A collection of C code examples for learning and quick reference. Each example demonstrates a different concept or technique in C programming.
